@@ -1,1 +1,1 @@
-# notion_widget
+# notion_greetings
